@@ -11,8 +11,8 @@
     <relativePath/>
   </parent>
 
-  <groupId>com.deepak</groupId>
-  <artifactId>springboot-mongodb-demo</artifactId>
+  <groupId>com.knoldus</groupId>
+  <artifactId>springboot-reactive-mongodb</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <name>springboot-reactive-mongodb</name>
 
